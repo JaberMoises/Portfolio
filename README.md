@@ -4,6 +4,7 @@
 📧 jaber.moises@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/moisesjaber)  
 💻 [GitHub](https://github.com/JaberMoises)
+
 📥 **Download my Resume (PDF)** → [Click here](./Moises_Jaber_CV.pdf)
 
 ---
