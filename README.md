@@ -1,4 +1,4 @@
-# 👨‍💻 Moises Jaber | Data Scientist Portfolio
+-# 👨‍💻 Moises Jaber | Data Scientist Portfolio
 
 📍 Guadalajara, Mexico  
 📧 jaber.moises@gmail.com  
@@ -36,7 +36,10 @@ Python, Pandas, NumPy, Matplotlib, SciPy, EDA, Hypothesis Testing
 - Detected high variability in user consumption patterns  
 - Validated statistically significant differences between plans  
 
-🖼️ *(Insert visualization here)*  
+
+<p align="center">
+  <img src="./Sprint5_Presentation.png" alt="Project Presentation" width="900"/>
+</p> 
 
 ---
 
@@ -53,7 +56,10 @@ Python, Pandas, Matplotlib, SciPy, EDA, Data Visualization
 - Found correlation patterns between critic scores and sales  
 - Defined regional market differences  
 
-🖼️ *(Insert visualization here)*  
+
+<p align="center">
+  <img src="./Sprint6_Presentation.png" alt="Project Presentation" width="900"/>
+</p> 
 
 ---
 
@@ -70,7 +76,10 @@ Python, Pandas, Plotly, SciPy, SQL, EDA, Hypothesis Testing
 - Demonstrated impact of weather conditions on trip duration  
 - Provided insights for operational planning  
 
-🖼️ *(Insert visualization here)*  
+
+<p align="center">
+  <img src="./Sprint8_Presentation.png" alt="Project Presentation" width="900"/>
+</p> 
 
 ---
 
